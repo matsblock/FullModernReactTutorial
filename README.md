@@ -1,3 +1,18 @@
+ 
+
+From playlist 
+https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=1
+
+Run
+
+npm install 
+npx json-server --watch data/db.json --port 8000
+npm start
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
